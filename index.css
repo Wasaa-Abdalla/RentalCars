@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+  }
+  
+  body {
+    background-color: rgb(26, 24, 24);
+  }
+  
+  .wrapper {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
+  }
+  
+  #car-list {
+    padding: 20px;
+    background: rgba(255,255,255,.85);
+  }
+  
+  h1, h2 {
+    font-family: 'Gabriela', serif;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 3.5em;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+  
+  h3 {
+    font-family: 'Gabriela', serif;
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+  
+  .card {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+
+  #menu {
+    text-align: center;
+  }
+  p {
+    font-size: 120%;
+  }
+  img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+  .hire {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+ 
+  

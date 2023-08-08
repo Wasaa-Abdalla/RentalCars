@@ -1,0 +1,20 @@
+{
+    "carData":[
+        {
+            "name" :"Subaru Forester",
+            "imageUrl" :"https://imgcdn.zigwheels.us/large/gallery/exterior/10/86/subaru-forester-front-angle-low-view-509804.jpg",
+            "description" : "Nice and Expensive"
+        },
+        {
+            "name" :"Mazda Demio",
+            "imageUrl" :"https://www.motorshop.co.ke/Vehicle/_010823_062740.jpeg",
+            "description" : "Cheap and Free"
+        },
+        {
+            "name" :"Mercedes Benz",
+            "imageUrl" :"https://images.unsplash.com/photo-1622987176711-3ec02a7608c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "description" : "Stable and Classy"
+        }
+        
+    ]
+}
